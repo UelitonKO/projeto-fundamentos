@@ -46,7 +46,7 @@
 | NOME DO PROJETO | Paradisee |
 | GERENTE DO PROJETO | Alana Tarcila Martins Alves |
 | PRINCIPAL OBJETIVO | Oferecer uma forma de entreternimento através de diferentes midias que poderão ser abertas e utilizadas por qualquer tipo de público. |
-| BENEFÍCIOS ESPERADOS |* ;<br/>* Promover o entreternimento para diversas idades;<br/>* Aumento do número de matrículas;<br/>* Redução de acessos indevidos em sites improprios para isso;<br/>* Deixar os usuarios constantemente atualizados das novidades |
+| BENEFÍCIOS ESPERADOS |* ;<br/>* Promover o entreternimento para diversas idades;<br/>* Melhorar o intelectual com filmes e livros educacionais disponiveis;<br/>* Redução de acessos indevidos em sites improprios para isso;<br/>* Deixar os usuarios constantemente atualizados das novidades. |
 | INÍCIO E TÉRMINO PREVISTOS | 14/03/2023 - 07/12/2023 |
 
 [ [INÍCIO](#Paradisee) ]
@@ -61,12 +61,9 @@ Este documento destina-se aos clientes, engenheiros, gerentes e demais stakehold
 
 Foram usados três métodos para que pudessem ser obtidos os requisitos do sistema:
 * Entrevista:
-  * Discussões individuais de um representante da equipe com José de Arimatéia, diretor da Escola Fibonacci.
+  * Discussões individuais de cada um dos participantes da equipe com o publico alvo.
 * Consulta com especialista:
-  * Gustavo, coordenador de pós-graduação do curso de Ciências Contábeis da Universidade Federal orientou na concepção do sistema devido sua experiência em trabalhar em cursos semipresenciais e ser um dos consultores da empresa;
-  * Alex Sandro Gomes, professor do Centro de Informática da Universidade Federal orientou na análise de requisitos devido a sua grande experiência em desenvolvimento de software educativo;
-  * Silvio Zanchetti, coordenador do curso on-line ITUC/AL, foi outro entrevistado;
-  * Manasses dos Santos Silva, responsável pelo treinamento dos funcionários do laboratório HEXAL BRASIL.
+  * Wagner, docente do curso técnico em informatica na disciplina de Fundamentos e Analise de Sistemas que orientou na concepção do projeto inicial devido sua experiência em trabalhar na área;
 * Prototipação:
   * Representações das interfaces gráficas com diferentes níveis de fidelidade, aprovadas pela empresa contratante.
 
@@ -80,7 +77,7 @@ Para evitar interpretações incorretas deste documento, algumas convenções e 
 * Moodle: Ambiente Virtual que hospedará os cursos oferecidos
 * Exame Final: Avaliação destinada aos estudantes que obtiveram média anual inferior à 60 pontos
 
-[ [INÍCIO](#fibonacci-management-system) ]
+[ [INÍCIO](#Paradisee) ]
 
 # DESCRIÇÃO GERAL
 
@@ -88,8 +85,8 @@ Para evitar interpretações incorretas deste documento, algumas convenções e 
 
 ### NO ESCOPO
 
-O projeto consiste na construção de uma ferramenta para gerenciamento de aprendizado *(Learning Management System - LMS)*, que possa atender os requisitos da Escola Fibonacci, no fator de educação à distância. O projeto visa auxiliar o sistema de ensino através de ferramentas síncronas e assíncronas que serão usadas por funcionários e alunos da instituição de ensino.
-O escopo do **produto** pode ser consultado nos [requisitos do software](#requisitos-do-software)
+O projeto consiste na construção de um site interativo *(Paradisee)*, que possiblite o entretenimento do usuario de forma simples e pratica. O projeto visa proporcionar ao usuario uma forma de se divertir sem ter que sair de sua casa, e que possa ser utilizada por todos conforme sua faixa etaria. 
+O escopo do **site** pode ser consultado nos [requisitos do software](#requisitos-do-software)
 
 ### FORA DO ESCOPO
 
