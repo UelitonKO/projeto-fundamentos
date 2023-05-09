@@ -1,13 +1,15 @@
 <img src='/img/logo.png' alt='logo da empresa' width='50px' heidth='50px'/>
 
-# *FIBONACCI MANAGEMENT SYSTEMas*
+# *Paradisee*
 
 # PROJETO DE SOFTWARE
 
 ## *Stakeholders*
-|NOME|CARGO|E-MAIL|
-|:---|:---|:---|
-|Wagner da Silva Ferreira Filho|Gerente de Projeto|wagner.ferreira@ifro.edu.br|
+|Alana Tarcila Martins Alves|Gerente de Projeto|alanaimportant@gmail.com|
+|Daiany Kelly Campos Silva||Designer de Inteface com o Usuário|daiihkel@gmail.com|
+|Diego Vinicius Daniel da Silva|Analista de Teste|diegoviny000@gmail.com|
+|João Pedro Pires e Macedo|Testador de Software|joaopedropiresemacedo2006@gmail.com|
+|Uéliton Pereira Novais|Programador|elrockimportant@gmail.com|
 
 # Sumário
 
@@ -16,7 +18,7 @@
   * [PROPÓSITO DESTE DOCUMENTO](#propósito-deste-documento)
   * [ESCOPO DO PROJETO](#escopo-do-projeto)
   * [CONCEPÇÃO DO SISTEMA](#concepção-do-sistema)
-  * [CONVENÇÕES, TERMOS E ABRIVEAÇÕES](#convenções-termos-e-abreviações)
+  * [CONVENÇÕES, TERMOS E ABRIVEAÇÕES][def]
 * [DESCRIÇÃO GERAL](#descrição-geral)
   * [USUÁRIOS DO SISTEMA](#usuários-do-sistema)
   * [ABRANGÊNCIA E SISTEMAS SIMILARES](#abrangência-e-sistemas-similares)
@@ -41,19 +43,19 @@
 # RESUMO DO PROJETO
 | ITEM | DESCRIÇÃO|
 |:---|:---|
-| NOME DO PROJETO | Fibonacci Management System |
-| GERENTE DO PROJETO | Wagner Ferreira |
-| PRINCIPAL OBJETIVO | Auxiliar o sistema de ensino através de ferramentas síncronas e assíncronas que serão usadas por funcionários e alunos da instituição de ensino. |
-| BENEFÍCIOS ESPERADOS |* Melhor acompanhamento pedagógico;<br/>* Redução da evasão escolar;<br/>* Aumento do número de matrículas;<br/>* Redução da inadimplência escolar;<br/>* Automatização dos processos financeiross|
+| NOME DO PROJETO | Paradisee |
+| GERENTE DO PROJETO | Alana Tarcila Martins Alves |
+| PRINCIPAL OBJETIVO | Oferecer uma forma de entreternimento através de diferentes midias que poderão ser abertas e utilizadas por qualquer tipo de público. |
+| BENEFÍCIOS ESPERADOS |* ;<br/>* Promover o entreternimento para diversas idades;<br/>* Aumento do número de matrículas;<br/>* Redução de acessos indevidos em sites improprios para isso;<br/>* Deixar os usuarios constantemente atualizados das novidades |
 | INÍCIO E TÉRMINO PREVISTOS | 14/03/2023 - 07/12/2023 |
 
-[ [INÍCIO](#fibonacci-management-system) ]
+[ [INÍCIO](#Paradisee) ]
 
 # INTRODUÇÃO
 
 ## PROPÓSITO DESTE DOCUMENTO
 
-Este documento destina-se aos clientes, engenheiros, gerentes e demais stakeholders deste projeto. O propósito deste documento é apresentar a descrição dos serviços e funções que o sistema **_Fibonacci Management System_** deve prover, bem como as suas restrições de operação e propriedades gerais, a fim de ilustrar uma descrição detalhada do sistema para um auxílio durante as etapas de análise, projeto e testes. O documento especifica todos os requisitos funcionais e não funcionais do sistema e contém a prototipagem, além de diagramas UML que foram construídos levando-se em conta as funcionalidades identificadas durante a fase de concepção do sistema.
+Este documento destina-se aos clientes, engenheiros, gerentes e demais stakeholders deste projeto. O propósito deste documento é apresentar a descrição dos serviços e funções que o sistema **Paradisee** deve prover, bem como as suas restrições de operação e propriedades gerais, a fim de ilustrar uma descrição detalhada do sistema para um auxílio durante as etapas de análise, projeto e testes. O documento especifica todos os requisitos funcionais e não funcionais do sistema e contém a prototipagem, além de diagramas UML que foram construídos levando-se em conta as funcionalidades identificadas durante a fase de concepção do sistema.
 
 ## CONCEPÇÃO DO SISTEMA
 
@@ -265,3 +267,5 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 Esta subseção apresenta as referências aos documentos que utilizamos no auxílio à construção deste documento.
 * [UML](https://www.omg.org/spec/UML/2.5/About-UML/)
 * [Práticas para Especificação de Requisitos IEEE-830](https://ieeexplore.ieee.org/document/720574)
+
+[def]: #convenções-termos-e-abreviações
