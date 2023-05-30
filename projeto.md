@@ -191,7 +191,7 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 :---|:---|:---|
 |RF-001 |Cadastro de usuário | Este caso de uso serve para que o usuário possa cadastrar-se ao sistema. |
 |RF-002 | Efetuar login | Este caso de uso serve para que o usuário possa conectar-se ao sistema. |
-|RF-003 | Efetuar login | Este caso de uso serve para que o usuário possa conectar-se ao sistema. |
+|RF-003 | Tela de buscas | Este caso de uso serve para que o usuário possa buscar exatamente o que ele precisa dentro do site. |
 |RF-004 | Efetuar login | Este caso de uso serve para que o usuário possa conectar-se ao sistema. |
 |RF-005 | Efetuar login | Este caso de uso serve para que o usuário possa conectar-se ao sistema. |
 
