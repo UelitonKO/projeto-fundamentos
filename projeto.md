@@ -216,9 +216,16 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 |:---|:---|:---|
-|RNF-001 |Nome do Requisito |Descreva aqui as informações sobre o requisito |
-|RNF-002 |Nome do Requisito |Descreva aqui as informações sobre o segundo requisito |
-
+|RNF-001 |Atuação |O sistema deve ser capaz de lidar com o número necessário de usuários sem qualquer degradação no desempenho. |
+|RNF-002 |Disponibilidade |O sistema deve estar disponível quando necessário. |
+|RNF-003 |Manutenção |O sistema deve ser fácil de manter e atualizar. |
+|RNF-004 |Portabilidade |O sistema deve ser capaz de rodar em diferentes plataformas com alterações mínimas. |
+|RNF-005 |Usabilidade |O sistema deve ser fácil de usar e entender. |
+|RNF-006 |Publicidade |possivel a integração de anúncios futuros. |
+|RNF-007 |Deletar dados do usuários |O sistema deve ser capaz de deletar dados próprios de usuário. |
+|RNF-008 |Interoperabilidade |O sistema deverá se comunicar com o SQL Server. |
+|RNF-009 |Integração |O sistema integra com outra aplicação. |
+|RNF-010 |interação de usuário |O sistema deve permitir a interação do usuário. |
 
 [ [INÍCIO](#paradisee) ]
 
