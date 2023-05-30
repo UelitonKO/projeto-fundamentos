@@ -71,11 +71,13 @@ Foram usados três métodos para que pudessem ser obtidos os requisitos do siste
 
 ## CONVENÇÕES, TERMOS E ABREVIAÇÕES
 
-Para evitar interpretações incorretas deste documento, algumas convenções e termos específicos são descritos a seguir:
+Para evitar interpretações incorretas deste documento, algumas convenções e termos específicos são aceitos a seguir:
 
-* EaD: Eaducação a Distância
-* Moodle: Ambiente Virtual que hospedará os cursos oferecidos
-* Exame Final: Avaliação destinada aos estudantes que obtiveram média anual inferior à 60 pontos
+* Conteúdo: Quando citado no conteúdo do projeto, diz respeito a filmes, séries, livros, jogos, músicas e canais.
+* Cultura pop: Conteúdo principalmente de entretenimento que ficou popular ou ganhou espaço no seu meio.
+* Login: Crie ou inicie uma sessão em sites ou aplicativos.
+* Logout: encerrar uma sessão.
+* Streaming: Tecnologia que permite consumir vídeos e áudios pela internet sem a necessidade de baixar os mesmos.
 
 [ [INÍCIO](#Paradisee) ]
 
