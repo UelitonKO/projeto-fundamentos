@@ -190,6 +190,7 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 :---|:---|:---|
 |RF-001 |Cadastro de usuário |Este caso de uso serve para que o usuário possa cadastrar-se ao sistema. |
+|RF-020 |E-mail de confirmação |Este caso de uso serve para que o sistema envie um e-mail de confirmação de cadastro ao usuário. |
 |RF-002 |Efetuar login |Este caso de uso serve para que o usuário possa conectar-se ao sistema. |
 |RF-003 |Recuperar senha |Este caso de uso serve para que o usuário possa recuperar sua senha ao esquecê-la. |
 |RF-004 |Tela de buscas |Este caso de uso serve para que o usuário possa buscar as formas de entretenimento por titulos, autores, diretores, atores, etc. |
@@ -201,14 +202,14 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 |RF-010 |Confiabilidade |Este caso de uso serve para que o sistema seja confiavel e atenda aos requisistos do usuários. |
 |RF-011 |Conteúdo |Este caso de uso serve para que o sistema seja capaz de identificar e salvar conteúdos. |
 |RF-012 |Comentário |Este caso de uso serve para que o usuário tenha a opção de interagir dentro do site. |
-|RF-013 | |Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
+|RF-013 |Notificação |Este caso de uso serve para que o sistema envie notificações de atualização de conteúdo ao usuário. |
 |RF-014 | |Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
 |RF-015 | |Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
 |RF-016 | |Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
 |RF-017 | |Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
 |RF-018 | |Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
 |RF-019 | |Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
-|RF-020 | |Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
+
 
 
 ## Requisitos Não Funcionais
