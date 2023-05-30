@@ -91,9 +91,12 @@ O escopo do **site** pode ser consultado nos [requisitos do software](#requisito
 ### FORA DO ESCOPO
 
 Não fazem parte do escopo do projeto:
-* Instalação e configuração do ambiente tecnológico do cliente;
+
 * Treinamento de instalação, configuração, administração e  utilização do sistema;
-* Integração com quaisquer sistemas ou base de dados do ambiente tecnológico do cliente.
+* Escolha de um tema do projeto;
+* Consumo dos conteúdos apresentados pelo site.
+
+
 
 ## Usuários do sistema
 |USUÁRIO|DESCRIÇÃO|
