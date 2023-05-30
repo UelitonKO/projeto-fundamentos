@@ -189,8 +189,8 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 :---|:---|:---|
-|RF-001 |Nome do Requisito | Descreva aqui as informações sobre o requisito |
-|RF-002 | Nome do Requisito | Descreva aqui as informações sobre o segundo requisito |
+|RF-001 |Efetuar login | Este caso de uso serve para que o usuário possa se conectar-se ao sistema. |
+|RF-002 | Efetuar login | Este caso de uso serve para que o usuário possa se conectar-se ao sistema. |
 
 
 ## Requisitos Não Funcionais
