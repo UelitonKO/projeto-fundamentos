@@ -189,8 +189,11 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 :---|:---|:---|
-|RF-001 |Efetuar login | Este caso de uso serve para que o usuário possa se conectar-se ao sistema. |
-|RF-002 | Efetuar login | Este caso de uso serve para que o usuário possa se conectar-se ao sistema. |
+|RF-001 |Cadastro de usuário | Este caso de uso serve para que o usuário possa cadastrar-se ao sistema. |
+|RF-002 | Efetuar login | Este caso de uso serve para que o usuário possa conectar-se ao sistema. |
+|RF-003 | Efetuar login | Este caso de uso serve para que o usuário possa conectar-se ao sistema. |
+|RF-004 | Efetuar login | Este caso de uso serve para que o usuário possa conectar-se ao sistema. |
+|RF-005 | Efetuar login | Este caso de uso serve para que o usuário possa conectar-se ao sistema. |
 
 
 ## Requisitos Não Funcionais
