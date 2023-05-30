@@ -172,12 +172,12 @@ Foi realizada uma análise de custo-benefício, e, mesmo com estimativas conserv
 Do ponto de vista organizacional, este projeto apresenta baixo risco. Os diretores e coordenadores da instituição demonstram forte interesse no projeto. Espera-se que os professores e alunos aprovem a implantação do sistema, visto que atualmente a escola não possui uma ferramenta específica para o controle das informações, o que está provocando enormes transtornos para a instituição.
 
 
-[ [INÍCIO](#fibonacci-management-system) ]
+[ [INÍCIO](#paradisee) ]
 
 # Metodologia Adotada no Desenvolvimento
 
 
-[ [INÍCIO](#fibonacci-management-system) ]
+[ [INÍCIO](#paradisee) ]
 
 # Requisitos do Software
 
@@ -189,18 +189,18 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 :---|:---|:---|
-|RF-001 |Cadastro de usuário | Este caso de uso serve para que o usuário possa cadastrar-se ao sistema. |
-|RF-002 | Efetuar login | Este caso de uso serve para que o usuário possa conectar-se ao sistema. |
-|RF-003 | Recuperar senha | Este caso de uso serve para que o usuário possa recuperar sua senha ao esquecê-la. |
-|RF-004 | Tela de buscas | Este caso de uso serve para que o usuário possa buscar as formas de entretenimento por titulos, autores, diretores, atores, etc. |
-|RF-005 | Controle de idade | Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
-|RF-006 | Solicitação de conteúdo | Este caso de uso serve para que o usuário possa solicitar o conteúdo que ele deseja ver no site, que não está disponível. |
-|RF-007 | Lista de favoritos | Este caso de uso serve para que o usuário consiga criar uma lista de favoritos. |
-|RF-008 | Controle de idade | Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
-|RF-009 | Controle de idade | Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
-|RF-010 | Controle de idade | Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
-|RF-011 | Controle de idade | Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
-|RF-012 | Controle de idade | Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
+|RF-001 |Cadastro de usuário |Este caso de uso serve para que o usuário possa cadastrar-se ao sistema. |
+|RF-002 |Efetuar login |Este caso de uso serve para que o usuário possa conectar-se ao sistema. |
+|RF-003 |Recuperar senha |Este caso de uso serve para que o usuário possa recuperar sua senha ao esquecê-la. |
+|RF-004 |Tela de buscas |Este caso de uso serve para que o usuário possa buscar as formas de entretenimento por titulos, autores, diretores, atores, etc. |
+|RF-005 |Controle de idade |Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
+|RF-006 |Solicitação de conteúdo |Este caso de uso serve para que o usuário possa solicitar o conteúdo que ele deseja ver no site, que não está disponível. |
+|RF-007 |Lista de favoritos |Este caso de uso serve para que o usuário consiga criar uma lista de favoritos. |
+|RF-008 |Estabilidade |Este caso de uso serve para que o sistema seja capaz de aumentar ou diminuir conforme o necessário. |
+|RF-009 |Controle de idade |Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
+|RF-010 |Controle de idade |Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
+|RF-011 |Controle de idade |Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
+|RF-012 |Controle de idade |Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
 
 
 ## Requisitos Não Funcionais
@@ -212,7 +212,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 |RNF-002 |Nome do Requisito |Descreva aqui as informações sobre o segundo requisito |
 
 
-[ [INÍCIO](#fibonacci-management-system) ]
+[ [INÍCIO](#paradisee) ]
 
 
 # Prototipagem
@@ -221,7 +221,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 ![Imagem do Protótipo](/img/home.png)
 
-[ [INÍCIO](#fibonacci-management-system) ]
+[ [INÍCIO](#paradisee) ]
 
 
 # Diagrama de Casos de Uso
@@ -262,15 +262,15 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 |RF-001|X| | | | | | | | | |
 |RF-002| |X| |X| | | | | | |
 
-[ [INÍCIO](#fibonacci-management-system) ]
+[ [INÍCIO](#paradisee) ]
 
 # Diagrama de Classes
 
-[ [INÍCIO](#fibonacci-management-system) ]
+[ [INÍCIO](#paradisee) ]
 
 # Diagrama de Sequências
 
-[ [INÍCIO](#fibonacci-management-system) ]
+[ [INÍCIO](#paradisee) ]
 
 # Diagrama de Atividades
 
