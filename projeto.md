@@ -193,15 +193,22 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 |RF-002 |Efetuar login |Este caso de uso serve para que o usuário possa conectar-se ao sistema. |
 |RF-003 |Recuperar senha |Este caso de uso serve para que o usuário possa recuperar sua senha ao esquecê-la. |
 |RF-004 |Tela de buscas |Este caso de uso serve para que o usuário possa buscar as formas de entretenimento por titulos, autores, diretores, atores, etc. |
-|RF-004 |Histórico de buscas |Este caso de uso serve para que o usuário tenha acesso ao seu histórico de pesquisas. |
-|RF-005 |Controle de idade |Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
-|RF-006 |Solicitação de conteúdo |Este caso de uso serve para que o usuário possa solicitar o conteúdo que ele deseja ver no site, que não está disponível. |
-|RF-007 |Lista de favoritos |Este caso de uso serve para que o usuário consiga criar uma lista de favoritos. |
-|RF-008 |Estabilidade |Este caso de uso serve para que o sistema seja capaz de aumentar ou diminuir conforme o necessário. |
-|RF-009 |Confiabilidade |Este caso de uso serve para que o sistema seja confiavel e atenda aos requisistos do usuários. |
-|RF-010 |Controle de idade |Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
-|RF-011 |Controle de idade |Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
-|RF-012 |Controle de idade |Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
+|RF-005 |Histórico de buscas |Este caso de uso serve para que o usuário tenha acesso ao seu histórico de pesquisas. |
+|RF-006 |Controle de idade |Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
+|RF-007 |Solicitação de conteúdo |Este caso de uso serve para que o usuário possa solicitar o conteúdo que ele deseja ver no site, que não está disponível. |
+|RF-008 |Lista de favoritos |Este caso de uso serve para que o usuário consiga criar uma lista de favoritos. |
+|RF-009 |Estabilidade |Este caso de uso serve para que o sistema seja capaz de aumentar ou diminuir conforme o necessário. |
+|RF-010 |Confiabilidade |Este caso de uso serve para que o sistema seja confiavel e atenda aos requisistos do usuários. |
+|RF-011 |Conteúdo |Este caso de uso serve para que o sistema seja capaz de identificar e salvar conteúdos. |
+|RF-012 |Comentário |Este caso de uso serve para que o usuário tenha a opção de interagir dentro do site. |
+|RF-013 | |Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
+|RF-014 | |Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
+|RF-015 | |Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
+|RF-016 | |Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
+|RF-017 | |Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
+|RF-018 | |Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
+|RF-019 | |Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
+|RF-020 | |Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
 
 
 ## Requisitos Não Funcionais
