@@ -193,7 +193,7 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 |RF-002 | Efetuar login | Este caso de uso serve para que o usuário possa conectar-se ao sistema. |
 |RF-003 | Recuperar senha | Este caso de uso serve para que o usuário possa recuperar sua senha ao esquecê-la. |
 |RF-004 | Tela de buscas | Este caso de uso serve para que o usuário possa buscar exatamente o que ele precisa dentro do site. |
-|RF-005 | Efetuar login | Este caso de uso serve para que o usuário possa conectar-se ao sistema. |
+|RF-005 | Controle de idade | Este caso de uso serve para que receba indicações conforme sua idade. |
 
 
 ## Requisitos Não Funcionais
