@@ -193,11 +193,12 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 |RF-002 |Efetuar login |Este caso de uso serve para que o usuário possa conectar-se ao sistema. |
 |RF-003 |Recuperar senha |Este caso de uso serve para que o usuário possa recuperar sua senha ao esquecê-la. |
 |RF-004 |Tela de buscas |Este caso de uso serve para que o usuário possa buscar as formas de entretenimento por titulos, autores, diretores, atores, etc. |
+|RF-004 |Histórico de buscas |Este caso de uso serve para que o usuário tenha acesso ao seu histórico de pesquisas. |
 |RF-005 |Controle de idade |Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
 |RF-006 |Solicitação de conteúdo |Este caso de uso serve para que o usuário possa solicitar o conteúdo que ele deseja ver no site, que não está disponível. |
 |RF-007 |Lista de favoritos |Este caso de uso serve para que o usuário consiga criar uma lista de favoritos. |
 |RF-008 |Estabilidade |Este caso de uso serve para que o sistema seja capaz de aumentar ou diminuir conforme o necessário. |
-|RF-009 |Controle de idade |Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
+|RF-009 |Confiabilidade |Este caso de uso serve para que o sistema seja confiavel e atenda aos requisistos do usuários. |
 |RF-010 |Controle de idade |Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
 |RF-011 |Controle de idade |Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
 |RF-012 |Controle de idade |Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
