@@ -59,13 +59,14 @@ Este documento destina-se à todos envolvidos nesse projeto. O objetivo do proje
 
 ## CONCEPÇÃO DO SISTEMA
 
-Foram usados três métodos para que pudessem ser obtidos os requisitos do sistema:
-* Entrevista:
-  * Discussões individuais de cada um dos participantes da equipe com o publico alvo.
-* Consulta com especialista:
-  * Wagner, docente do curso técnico em informatica na disciplina de Fundamentos e Analise de Sistemas que orientou na concepção do projeto inicial devido sua experiência em trabalhar na área;
-* Prototipação:
-  * Representações das interfaces gráficas com diferentes níveis de fidelidade, aprovadas pela empresa contratante.
+
+Foram usados métodos para que pudessem ser obtidos os requisitos do sistema: 
+* Reunião: 
+  * Os envolvidos no projeto debateram para decidir qual tipo de projeto era mais agradável a todos;
+* Consulta com especialista: 
+  * Wagner, docente do curso técnico em informática na disciplina de Fundamentos e Analise de Sistemas que orientou na concepção do projeto inicial devido sua experiência em trabalhar na área; 
+* Pesquisa: 
+  * Afim de entender melhor sobre o projeto e sua acessibilidade, os envolvidos fizeram pesquisas sobre o assunto.
 
 
 
