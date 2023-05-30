@@ -195,7 +195,7 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 |RF-004 | Tela de buscas | Este caso de uso serve para que o usuário possa buscar as formas de entretenimento por titulos, autores, diretores, atores, etc. |
 |RF-005 | Controle de idade | Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
 |RF-006 | Solicitação de conteúdo | Este caso de uso serve para que o usuário possa solicitar o conteúdo que ele deseja ver no site, que não está disponível. |
-|RF-007 | Controle de idade | Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
+|RF-007 | Lista de favoritos | Este caso de uso serve para que o usuário consiga criar uma lista de favoritos. |
 |RF-008 | Controle de idade | Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
 |RF-009 | Controle de idade | Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
 |RF-010 | Controle de idade | Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
