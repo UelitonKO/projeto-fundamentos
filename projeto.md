@@ -5,6 +5,9 @@
 # PROJETO DE SOFTWARE
 
 ## *Stakeholders*
+|NOME|CARGO|E-MAIL|
+|:---|:---|:---|
+|Alana Tarcila Martins Alves|Gerente de Projeto|alanaimportant@gmail.com|
 |Alana Tarcila Martins Alves|Gerente de Projeto|alanaimportant@gmail.com|
 |Daiany Kelly Campos Silva||Designer de Inteface com o Usuário|daiihkel@gmail.com|
 |Diego Vinicius Daniel da Silva|Analista de Teste|diegoviny000@gmail.com|
