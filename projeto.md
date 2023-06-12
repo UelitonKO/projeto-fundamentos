@@ -8,8 +8,7 @@
 |NOME|CARGO|E-MAIL|
 |:---|:---|:---|
 |Alana Tarcila Martins Alves|Gerente de Projeto|alanaimportant@gmail.com|
-|Alana Tarcila Martins Alves|Gerente de Projeto|alanaimportant@gmail.com|
-|Daiany Kelly Campos Silva||Designer de Inteface com o Usuário|daiihkel@gmail.com|
+|Daiany Kelly Campos Silva|Designer de Inteface com o Usuário|daiihkel@gmail.com|
 |Diego Vinicius Daniel da Silva|Analista de Teste|diegoviny000@gmail.com|
 |João Pedro Pires e Macedo|Testador de Software|joaopedropiresemacedo2006@gmail.com|
 |Uéliton Pereira Novais|Programador|elrockimportant@gmail.com|
@@ -58,7 +57,7 @@
 
 ## PROPÓSITO DESTE DOCUMENTO
 
-Este documento destina-se à todos envolvidos nesse projeto. O objetivo do projeto **Paradisee** é ser um banco de informações sobre diversos tipos de entretenimentos como filmes e livros, contendo seus autores, nacionalidade, data de criação, locais onde podem ser acessados, entre outras informações.
+Este documento destina-se aos stakeholders e à todos envolvidos nesse projeto. O objetivo do projeto **Paradisee** é ser um banco de informações sobre diversos tipos de entretenimentos como filmes e livros, contendo seus autores, nacionalidade, data de criação, locais onde podem ser acessados, entre outras informações.
 
 ## CONCEPÇÃO DO SISTEMA
 
@@ -91,24 +90,23 @@ Para evitar interpretações incorretas deste documento, algumas convenções e 
 
 ### NO ESCOPO
 
-O projeto consiste na construção de um site interativo *(Paradisee)*, que possiblite o entretenimento do usuario de forma simples e pratica. O projeto visa proporcionar ao usuario uma forma de se divertir sem ter que sair de sua casa, e que possa ser utilizada por todos conforme sua faixa etaria. 
-O escopo do **site** pode ser consultado nos [requisitos do software](#requisitos-do-software)
+O projeto consiste na construção de um site interativo *(Paradisee)*, que possibilite o entretenimento do usuario de forma simples e prática. O projeto visa proporcionar ao usuario uma forma de se divertir sem ter que sair de sua casa, e que possa ser utilizada por todos conforme sua faixa etaria. 
+O escopo do site pode ser consultado nos [requisitos do software](#requisitos-do-software)
 
 ### FORA DO ESCOPO
 
 Não fazem parte do escopo do projeto:
-
 * Treinamento de instalação, configuração, administração e  utilização do sistema;
 * Escolha de um tema do projeto;
 * Consumo dos conteúdos apresentados pelo site.
 
-
-
 ## Usuários do sistema
 |USUÁRIO|DESCRIÇÃO|
 |:---|:---|
-|**Usuário Padrão:**|Realizam as tarefas comuns a todos os usuários, tal como: logar e enviar mensagens. Todos demais usuários estendem as funcionalidades do UsuárioPadrão|
+|**Usuário Padrão:**|Realizam as tarefas comuns a todos os usuários, como: logar. Todos demais usuários estendem as funcionalidades do UsuárioPadrão|
 |**Administrador:**|Responsáveis pelo gerenciamento das entidades pertinentes ao site e pela alocação de outros administradores.|
+|**Membro:**|Podem fazer ações ligadas a sua conta, por exemplo: gerenciar sua lista de desejos, mandar mensagens, fazer comentários e editar seu perfil|
+|**Editores:**|Adicionam, editam e removem conteúdos do site|
 
 ## Abrangência e sistemas similares
 
@@ -202,13 +200,13 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 |RF-011 |Conteúdo |Este caso de uso serve para que o sistema seja capaz de identificar e salvar conteúdos. |
 |RF-012 |Comentário |Este caso de uso serve para que o usuário tenha a opção de interagir dentro do site. |
 |RF-013 |Notificação |Este caso de uso serve para que o sistema envie notificações de atualização de conteúdo ao usuário. |
-|RF-014 | |Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
+|RF-014 | Lista de desejos |Este caso de uso serve para que o usuário possa salvar conteúdos para ter facil acesso posteriormente. |
 |RF-015 | |Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
 |RF-016 | |Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
 |RF-017 | |Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
 |RF-018 | |Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
 |RF-019 | |Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
-
+|RF-020 | |Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
 
 
 ## Requisitos Não Funcionais
