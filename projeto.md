@@ -48,7 +48,7 @@
 | NOME DO PROJETO | Paradisee |
 | GERENTE DO PROJETO | Alana Tarcila Martins Alves |
 | PRINCIPAL OBJETIVO | Oferecer uma forma de entreternimento através de diferentes midias que poderão ser abertas e utilizadas por qualquer tipo de público. |
-| BENEFÍCIOS ESPERADOS |* ;<br/>* Promover o entreternimento para diversas idades;<br/>* Melhorar o intelectual com filmes e livros educacionais disponiveis;<br/>* Redução de acessos indevidos em sites improprios para isso;<br/>* Deixar os usuarios constantemente atualizados das novidades. |
+| BENEFÍCIOS ESPERADOS |* Promover o entreternimento para diversas idades;<br/>* Otimizar o tempo de busca do usuário dentro da web;<br/>* Melhorar o intelectual com filmes, series e livros com indicações apropriadas;<br/>* Reduzir o numero de acessos indevidos em sites improprios para isso;<br/>* Deixar os usuarios constantemente atualizados das novidades. |
 | INÍCIO E TÉRMINO PREVISTOS | 14/03/2023 - 07/12/2023 |
 
 [ [INÍCIO](#Paradisee) ]
@@ -172,26 +172,25 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 :---|:---|:---|
 |RF-001 |Cadastro de usuário |Este caso de uso serve para que o usuário possa cadastrar-se ao sistema. |
-|RF-020 |E-mail de confirmação |Este caso de uso serve para que o sistema envie um e-mail de confirmação de cadastro ao usuário. |
-|RF-002 |Efetuar login |Este caso de uso serve para que o usuário possa conectar-se ao sistema. |
-|RF-003 |Recuperar senha |Este caso de uso serve para que o usuário possa recuperar sua senha ao esquecê-la. |
-|RF-004 |Tela de buscas |Este caso de uso serve para que o usuário possa buscar as formas de entretenimento por titulos, autores, diretores, atores, etc. |
-|RF-005 |Histórico de buscas |Este caso de uso serve para que o usuário tenha acesso ao seu histórico de pesquisas. |
-|RF-006 |Controle de idade |Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
-|RF-007 |Solicitação de conteúdo |Este caso de uso serve para que o usuário possa solicitar o conteúdo que ele deseja ver no site, que não está disponível. |
-|RF-008 |Lista de favoritos |Este caso de uso serve para que o usuário consiga criar uma lista de favoritos. |
-|RF-009 |Estabilidade |Este caso de uso serve para que o sistema seja capaz de aumentar ou diminuir conforme o necessário. |
-|RF-010 |Confiabilidade |Este caso de uso serve para que o sistema seja confiavel e atenda aos requisistos do usuários. |
-|RF-011 |Conteúdo |Este caso de uso serve para que o sistema seja capaz de identificar e salvar conteúdos. |
-|RF-012 |Comentário |Este caso de uso serve para que o usuário tenha a opção de interagir dentro do site. |
-|RF-013 |Notificação |Este caso de uso serve para que o sistema envie notificações de atualização de conteúdo ao usuário. |
-|RF-014 | Lista de desejos |Este caso de uso serve para que o usuário possa salvar conteúdos para ter facil acesso posteriormente. |
-|RF-015 | |Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
-|RF-016 | |Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
-|RF-017 | |Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
-|RF-018 | |Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
-|RF-019 | |Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
-|RF-020 | |Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
+|RF-002 |E-mail de confirmação |Este caso de uso serve para que o sistema envie um e-mail de confirmação de cadastro ao usuário. |
+|RF-003 |Efetuar login |Este caso de uso serve para que o usuário possa conectar-se ao sistema. |
+|RF-004 |Recuperar senha |Este caso de uso serve para que o usuário possa recuperar sua senha ao esquecê-la. |
+|RF-005 |Tela de buscas |Este caso de uso serve para que o usuário possa buscar as formas de entretenimento por titulos, autores, diretores, atores, etc. |
+|RF-006 |Histórico de buscas |Este caso de uso serve para que o usuário tenha acesso ao seu histórico de pesquisas. |
+|RF-007 |Controle de idade |Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
+|RF-008 |Solicitação de conteúdo |Este caso de uso serve para que o usuário possa solicitar o conteúdo que ele deseja ver no site, que não está disponível. |
+|RF-009 |Lista de favoritos |Este caso de uso serve para que o usuário consiga criar uma lista de favoritos. |
+|RF-010 |Relatório |Este caso de uso serve para que o sistema exiba um relatório dos conteudos mais acessados pelos usuários. |
+|RF-011 |Confiabilidade |Este caso de uso serve para que o sistema seja confiavel e seguro para o usuário. |
+|RF-012 |Conteúdo |Este caso de uso serve para que o sistema seja capaz de identificar e salvar conteúdos mais vistos pelo usuário. |
+|RF-013 |Comentário |Este caso de uso serve para que o usuário tenha a opção de interagir dentro do site. |
+|RF-014 |Notificação |Este caso de uso serve para que o sistema envie notificações de atualização de conteúdo ao usuário. |
+|RF-015 |Lista de desejos |Este caso de uso serve para que o usuário possa salvar conteúdos para ter facil acesso posteriormente. |
+|RF-016 |Publicação |Este caso de uso serve para que os desenvolvedores sejam capazes de publicar novos conteudos. |
+|RF-017 |Avaliar |Este caso de uso serve para que o usuário seja capaz de avaliar o conteudo visto por ele. |
+|RF-018 |Compartilhar |Este caso de uso serve para que o usuário consiga compartilhar qualquer publicação do site. |
+|RF-019 |Visualização |Este caso de uso serve para que o usuário consiga vizualizar a quantidade de pessoas que acessou o conteudo. |
+|RF-020 |Dados |Este caso de uso serve para que o sistema não disponibilize dados pessoas do usuário para todos. |
 
 
 ## Requisitos Não Funcionais
@@ -204,11 +203,11 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 |RNF-003 |Manutenção |O sistema deve ser fácil de manter e atualizar. |
 |RNF-004 |Portabilidade |O sistema deve ser capaz de rodar em diferentes plataformas com alterações mínimas. |
 |RNF-005 |Usabilidade |O sistema deve ser fácil de usar e entender. |
-|RNF-006 |Publicidade |possivel a integração de anúncios futuros. |
+|RNF-006 |Publicidade |O sistema deve ter configuração possivel a integração de anúncios futuros. |
 |RNF-007 |Deletar dados do usuários |O sistema deve ser capaz de deletar dados próprios de usuário. |
 |RNF-008 |Interoperabilidade |O sistema deverá se comunicar com o SQL Server. |
 |RNF-009 |Integração |O sistema integra com outra aplicação. |
-|RNF-010 |interação de usuário |O sistema deve permitir a interação do usuário. |
+|RNF-010 |Conexão |O sistema deve estar ligado a uma rede de internet para usufruir. |
 
 [ [INÍCIO](#paradisee) ]
 
