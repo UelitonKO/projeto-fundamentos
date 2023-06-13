@@ -1,4 +1,4 @@
-<img src='/img/logo.png' alt='logo da empresa' width='50px' heidth='50px'/>
+![Alt text](image-1.png)
 
 # *Paradisee*
 
