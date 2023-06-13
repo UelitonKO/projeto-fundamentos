@@ -112,46 +112,31 @@ Não fazem parte do escopo do projeto:
 
 ### Abrangência:
 
-O sistema irá conter ferramentas para construção de um plano de aulas que esteja de acordo com os objetivos e metodologia de uma turma ministrda peloa professor. O professor através de ferramentas (como Chat, Fórum, Base de Documentos) irá montar o programa desta disciplina que deverá ser seguido pelo aluno usuário do sistema. O professor terá a liberdade de criar atividades (textos e questionários) e determinar prazos a serem cumpridos pelos alunos. Serão armazenadas as resoluções dos alunos para serem corrigidas pelo professor posteriormente, gerando estatísticas do desempenho de cada aluno e da turma. O sistema também irá prover o gerenciamento das entidades que compõem a instituição e os usuários do sistema.
-
-Dentre as ferramentas de comunicação do sistema existirão as assíncronas, como Chat, onde poderão ser feitas reuniões, discussões, explicações conjuntas ou qualquer outra atividade de comunicação. O Fórum consiste na ferramenta síncrona usada para os mesmos fins do Chat.
+O sistema irá conter dados para facilitar o tempo de lazer do usuário. O editor ira editar os conteúdos que estaram disponíveis a todos os usuários. Os editores receberam feedbacks dos membros e sobre suas edições. Os administradores poderam editar os outros usuários e seus dados. 
 
 Das ferramentas de planejamento podemos citar:
 
-* **Avaliações e Exercícios:** serão criadas tarefas a serem entregues pelos alunos nos determinados prazos;
-
-* **Anúncios:** espaço para criação de avisos e informes aos alunos de uma determinada turma;
-
-* **Manipulação de Arquivos:** haverá um diretório onde podem ser acumulados arquivos de diversos tipos pelos usuários;
-
-* **Planejamento de Aulas:** planejamento de uma aula estruturada com leituras e exercícios.
+* **Ferramenta de edição:** Opção usada para configurar os conteúdos presentes no site;
 
 ### Sistemas similares:
 
-No cenário atual da universidade se encontra um sistema que é responsável por realizar tal tarefa, denominado Virtus, porém o sistema não atende todas as necessidades, não sendo considerado satisfatório pela maioria dos usuários.
+Alguns sites que possuem a mesma ideia:
 
-No cenário nacional encontram-se três sistemas que se destacam:
+**IMDb ( www.imdb.com ):** Um dos maiores bancos de dados de filmes, programas de TV, atores e equipes de produção. Oferece informações subordinadas sobre filmes, séries de TV, elenco, equipe de produção, classificações, críticas, trailers e muito mais.
 
-**AulaNet:** é um ambiente de software baseado na Web, desenvolvido no Laboratório de Engenharia de Software - LES - do Departamento de Informática da PUC-Rio, para administração, criação, manutenção e participação em cursos à distância.
-WebAula: é um produto formado por soluções integradas de gerenciamento de aprendizagem, conhecimento e conteúdos on-line, resultado de uma joint venture entre as empresas Zargon e Poliedro.
+**IGN ( www.ign.com ):** Um dos maiores sites de entretenimento digital, oferece notícias, análises, prévias, vídeos e cobertura de diversos jogos para várias plataformas.
 
-**TelEduc:** é um ambiente para a criação, participação e administração de cursos na Web. Ele foi concebido tendo como alvo o processo de formação de professores para informática educativa, baseado na metodologia de formação contextualizada desenvolvida por pesquisadores do Nied (Núcleo de Informática Aplicada à Educação) da Unicamp.
+**GameSpot ( www.gamespot.com ):** O GameSpot é um site que se dedica à cobertura de jogos eletrônicos, fornecendo notícias, análises e vídeos sobre diferentes títulos e plataforma.
 
-No cenário internacional os sistemas de maior porte são:
-
-**WebCT:** O WebCT é um programa que possibilita a criação de ambientes educacionais na Internet, desenvolvido pela University of British Columbia - Canadá. Ele permite a colocação do conteúdo de um curso na Internet pelo professor e, em seguida, o cadastro os alunos que participarão daquele curso. O objetivo principal é possibilitar a interação entre tais sujeitos através de ferramentas de trabalho em grupo, tais como: fóruns de discussão, chat, palestras on-line, além de facilitar a comunicação professor-aluno, através da publicação de notas e gabaritos de avaliações.
-
-**Blackboard:** é um sistema de autoria extremamente amigável, desenvolvido para ser utilizado por educadores e profissionais interessados em aplicar as novas tecnologias interativas da rede na educação, contribuindo para a metodologia de ensino presencial e potencializando o processo de ensino e aprendizagem a distância.
-
+**Goodreads ( www.goodreads.com ):** Uma comunidade online de leitores que oferece recomendações, resenhas, listas de livros, grupos de discussão e a possibilidade de acompanhar sua própria biblioteca virtual.
 ## Suposições e dependências
 O sistema necessita de um servidor web para sua hospedagem.
 
 Os usuários devem utilizar um computador com a seguinte configuração mínima:
 
 * Processador Dual Core 2GHz ou superior
-* 2Gb de memória RAM
-* 5Gb de armazenamento em disco
-* Para uso do sistema é preciso ter instalado o Java SE versão 8 e o MySql versão 8.0.28.
+* 1Gb de memória RAM
+* 3Gb de armazenamento em disco
 
 # ESTUDO DE VIABILIDADE
 
