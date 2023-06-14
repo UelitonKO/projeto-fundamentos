@@ -90,7 +90,17 @@ Para evitar interpretações incorretas deste documento, algumas convenções e 
 
 ### NO ESCOPO
 
-O projeto consiste na construção de um site interativo *(CanalBis)*, que possibilite o entretenimento do usuario de forma simples e prática. O projeto visa proporcionar ao usuario uma forma de se divertir sem ter que sair de sua casa, e que possa ser utilizada por todos conforme sua faixa etaria. 
+O projeto consiste na construção de um site interativo *(CanalBis)*, que possibilite o entretenimento de forma simples e prática. O projeto visa promover ao usuário as melhores indicações conforme o gosto de cada um, a fim de cessar a indecisão na hora de escolher algo para ler, jogar ou assistir. 
+
+Indicações como:
+* Filmes indicados ao oscar;
+* Séries com os melhores diretores;
+* Livros mais bem avaliados pelo público;
+* Jogos mais acessados recentemente.
+E muito mais..
+
+É um projeto que promete facilidade ao usuário e que possa ser utilizado por todos conforme sua faixa etaria.
+
 O escopo do site pode ser consultado nos [requisitos do software](#requisitos-do-software)
 
 ### FORA DO ESCOPO
@@ -103,10 +113,10 @@ Não fazem parte do escopo do projeto:
 ## Usuários do sistema
 |USUÁRIO|DESCRIÇÃO|
 |:---|:---|
-|**Usuário Padrão:**|Realizam as tarefas comuns a todos os usuários, como: logar. Todos demais usuários estendem as funcionalidades do UsuárioPadrão|
+|**Usuário Padrão:**|Realizam as tarefas comuns a todos os usuários, como: logar. Todos demais usuários estendem as funcionalidades do UsuárioPadrão.|
 |**Administrador:**|Responsáveis pelo gerenciamento das entidades pertinentes ao site e pela alocação de outros administradores.|
-|**Membro:**|Podem fazer ações ligadas a sua conta, por exemplo: gerenciar sua lista de desejos, mandar mensagens, fazer comentários e editar seu perfil|
-|**Editores:**|Adicionam, editam e removem conteúdos do site|
+|**Membro:**|Podem fazer ações ligadas a sua conta, por exemplo: gerenciar sua lista de desejos, mandar mensagens, fazer comentários e editar seu perfil.|
+|**Editores:**|Adicionam, editam e removem conteúdos do site.|
 
 ## Abrangência e sistemas similares
 
