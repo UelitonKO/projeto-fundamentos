@@ -1,6 +1,6 @@
 ![Alt text](img/Paradiseeamarelo.png)
 
-# *Paradisee*
+# *CanalBis*
 
 # PROJETO DE SOFTWARE
 
@@ -45,19 +45,19 @@
 # RESUMO DO PROJETO
 | ITEM | DESCRIÇÃO|
 |:---|:---|
-| NOME DO PROJETO | Paradisee |
+| NOME DO PROJETO | CanalBis |
 | GERENTE DO PROJETO | Alana Tarcila Martins Alves |
 | PRINCIPAL OBJETIVO | Oferecer uma forma de entreternimento através de diferentes midias que poderão ser abertas e utilizadas por qualquer tipo de público. |
 | BENEFÍCIOS ESPERADOS |* Promover o entreternimento para diversas idades;<br/>* Otimizar o tempo de busca do usuário dentro da web;<br/>* Melhorar o intelectual com filmes, series e livros com indicações apropriadas;<br/>* Reduzir o numero de acessos indevidos em sites improprios para isso;<br/>* Deixar os usuarios constantemente atualizados das novidades. |
 | INÍCIO E TÉRMINO PREVISTOS | 14/03/2023 - 07/12/2023 |
 
-[ [INÍCIO](#Paradisee) ]
+[ [INÍCIO](#CanalBis) ]
 
 # INTRODUÇÃO
 
 ## PROPÓSITO DESTE DOCUMENTO
 
-Este documento destina-se aos stakeholders e à todos envolvidos nesse projeto. O objetivo do projeto **Paradisee** é ser um banco de informações sobre diversos tipos de entretenimentos como filmes e livros, contendo seus autores, nacionalidade, data de criação, locais onde podem ser acessados, entre outras informações.
+Este documento destina-se aos stakeholders e à todos envolvidos nesse projeto. O objetivo do projeto **CanalBis** é ser um banco de informações sobre diversos tipos de entretenimentos como filmes e livros, contendo seus autores, nacionalidade, data de criação, locais onde podem ser acessados, entre outras informações.
 
 ## CONCEPÇÃO DO SISTEMA
 
@@ -82,7 +82,7 @@ Para evitar interpretações incorretas deste documento, algumas convenções e 
 * Logout: encerrar uma sessão.
 * Streaming: Tecnologia que permite consumir vídeos e áudios pela internet sem a necessidade de baixar os mesmos.
 
-[ [INÍCIO](#Paradisee) ]
+[ [INÍCIO](#CanalBis) ]
 
 # DESCRIÇÃO GERAL
 
@@ -90,7 +90,7 @@ Para evitar interpretações incorretas deste documento, algumas convenções e 
 
 ### NO ESCOPO
 
-O projeto consiste na construção de um site interativo *(Paradisee)*, que possibilite o entretenimento do usuario de forma simples e prática. O projeto visa proporcionar ao usuario uma forma de se divertir sem ter que sair de sua casa, e que possa ser utilizada por todos conforme sua faixa etaria. 
+O projeto consiste na construção de um site interativo *(CanalBis)*, que possibilite o entretenimento do usuario de forma simples e prática. O projeto visa proporcionar ao usuario uma forma de se divertir sem ter que sair de sua casa, e que possa ser utilizada por todos conforme sua faixa etaria. 
 O escopo do site pode ser consultado nos [requisitos do software](#requisitos-do-software)
 
 ### FORA DO ESCOPO
@@ -98,7 +98,7 @@ O escopo do site pode ser consultado nos [requisitos do software](#requisitos-do
 Não fazem parte do escopo do projeto:
 * Treinamento de instalação, configuração, administração e  utilização do sistema;
 * Escolha de um tema do projeto;   
-* O projeto Paradisee não hospeda os conteúdos apresentados, apenas as informações sobre eles.
+* O projeto CanalBis não hospeda os conteúdos apresentados, apenas as informações sobre eles.
 
 ## Usuários do sistema
 |USUÁRIO|DESCRIÇÃO|
@@ -154,12 +154,12 @@ Foi realizada uma análise de custo-benefício, e, mesmo com estimativas conserv
 Do ponto de vista organizacional, este projeto apresenta baixo risco. Os diretores e coordenadores da instituição demonstram forte interesse no projeto. Espera-se que os professores e alunos aprovem a implantação do sistema, visto que atualmente a escola não possui uma ferramenta específica para o controle das informações, o que está provocando enormes transtornos para a instituição.
 
 
-[ [INÍCIO](#paradisee) ]
+[ [INÍCIO](#CanalBis) ]
 
 # Metodologia Adotada no Desenvolvimento
 
 
-[ [INÍCIO](#paradisee) ]
+[ [INÍCIO](#CanalBis) ]
 
 # Requisitos do Software
 
@@ -175,7 +175,7 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 |RF-002 |E-mail de confirmação |Este caso de uso serve para que o sistema envie um e-mail de confirmação de cadastro ao usuário. |
 |RF-003 |Efetuar login |Este caso de uso serve para que o usuário possa conectar-se ao sistema. |
 |RF-004 |Recuperar senha |Este caso de uso serve para que o usuário possa recuperar sua senha ao esquecê-la. |
-|RF-005 |Tela de buscas |Este caso de uso serve para que o usuário possa buscar as formas de entretenimento por titulos, autores, diretores, atores, etc. |
+|RF-005 |Buscas |Este caso de uso serve para que o usuário possa buscar fazer a busca do que deseja dentro do site. |
 |RF-006 |Histórico de buscas |Este caso de uso serve para que o usuário tenha acesso ao seu histórico de pesquisas. |
 |RF-007 |Controle de idade |Este caso de uso serve para que o usuário receba indicações conforme sua idade. |
 |RF-008 |Solicitação de conteúdo |Este caso de uso serve para que o usuário possa solicitar o conteúdo que ele deseja ver no site, que não está disponível. |
@@ -190,7 +190,7 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 |RF-017 |Avaliar |Este caso de uso serve para que o usuário seja capaz de avaliar o conteudo visto por ele. |
 |RF-018 |Compartilhar |Este caso de uso serve para que o usuário consiga compartilhar qualquer publicação do site. |
 |RF-019 |Visualização |Este caso de uso serve para que o usuário consiga vizualizar a quantidade de pessoas que acessou o conteudo. |
-|RF-020 |Dados |Este caso de uso serve para que o sistema não disponibilize dados pessoas do usuário para todos. |
+|RF-020 |Dados |Este caso de uso serve para que o sistema não disponibilize dados pessoais do usuário para todos. |
 
 
 ## Requisitos Não Funcionais
@@ -209,7 +209,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 |RNF-009 |Integração |O sistema integra com outra aplicação. |
 |RNF-010 |Conexão |O sistema deve estar ligado a uma rede de internet para usufruir. |
 
-[ [INÍCIO](#paradisee) ]
+[ [INÍCIO](#CanalBis) ]
 
 
 # Prototipagem
@@ -218,7 +218,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 ![Imagem do Protótipo](/img/home.png)
 
-[ [INÍCIO](#paradisee) ]
+[ [INÍCIO](#CanalBis) ]
 
 
 # Diagrama de Casos de Uso
@@ -259,15 +259,15 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 |RF-001|X| | | | | | | | | |
 |RF-002| |X| |X| | | | | | |
 
-[ [INÍCIO](#paradisee) ]
+[ [INÍCIO](#CanalBis) ]
 
 # Diagrama de Classes
 
-[ [INÍCIO](#paradisee) ]
+[ [INÍCIO](#CanalBis) ]
 
 # Diagrama de Sequências
 
-[ [INÍCIO](#paradisee) ]
+[ [INÍCIO](#CanalBis) ]
 
 # Diagrama de Atividades
 
