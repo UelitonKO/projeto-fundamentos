@@ -1,4 +1,4 @@
-![Alt text](image-1.png)
+![Alt text](img/Paradiseeamarelo.png)
 
 # *Paradisee*
 
@@ -76,7 +76,7 @@ Foram usados métodos para que pudessem ser obtidos os requisitos do sistema:
 
 Para evitar interpretações incorretas deste documento, algumas convenções e termos específicos são aceitos a seguir:
 
-* Conteúdo: Quando citado no conteúdo do projeto, diz respeito a filmes, séries, livros, jogos, músicas e canais.
+* Conteúdo: Quando citado no conteúdo do projeto, diz respeito a filmes, séries, livros, jogos.
 * Cultura pop: Conteúdo principalmente de entretenimento que ficou popular ou ganhou espaço no seu meio.
 * Login: Crie ou inicie uma sessão em sites ou aplicativos.
 * Logout: encerrar uma sessão.
@@ -97,8 +97,8 @@ O escopo do site pode ser consultado nos [requisitos do software](#requisitos-do
 
 Não fazem parte do escopo do projeto:
 * Treinamento de instalação, configuração, administração e  utilização do sistema;
-* Escolha de um tema do projeto;
-* Consumo dos conteúdos apresentados pelo site.
+* Escolha de um tema do projeto;   
+* O projeto Paradisee não hospeda os conteúdos apresentados, apenas as informações sobre eles.
 
 ## Usuários do sistema
 |USUÁRIO|DESCRIÇÃO|
@@ -185,7 +185,7 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 |RF-012 |Conteúdo |Este caso de uso serve para que o sistema seja capaz de identificar e salvar conteúdos mais vistos pelo usuário. |
 |RF-013 |Comentário |Este caso de uso serve para que o usuário tenha a opção de interagir dentro do site. |
 |RF-014 |Notificação |Este caso de uso serve para que o sistema envie notificações de atualização de conteúdo ao usuário. |
-|RF-015 |Lista de desejos |Este caso de uso serve para que o usuário possa salvar conteúdos para ter facil acesso posteriormente. |
+|RF-015 |Deletar conta |Este caso permite o usuário deletar sua própria conta com uma confirmação de senha.  |
 |RF-016 |Publicação |Este caso de uso serve para que os desenvolvedores sejam capazes de publicar novos conteudos. |
 |RF-017 |Avaliar |Este caso de uso serve para que o usuário seja capaz de avaliar o conteudo visto por ele. |
 |RF-018 |Compartilhar |Este caso de uso serve para que o usuário consiga compartilhar qualquer publicação do site. |
@@ -204,7 +204,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 |RNF-004 |Portabilidade |O sistema deve ser capaz de rodar em diferentes plataformas com alterações mínimas. |
 |RNF-005 |Usabilidade |O sistema deve ser fácil de usar e entender. |
 |RNF-006 |Publicidade |O sistema deve ter configuração possivel a integração de anúncios futuros. |
-|RNF-007 |Deletar dados do usuários |O sistema deve ser capaz de deletar dados próprios de usuário. |
+|RNF-007 |Deletar dados de contas |O sistema deve ser capaz de remover dados de uma conta deletada. |
 |RNF-008 |Interoperabilidade |O sistema deverá se comunicar com o SQL Server. |
 |RNF-009 |Integração |O sistema integra com outra aplicação. |
 |RNF-010 |Conexão |O sistema deve estar ligado a uma rede de internet para usufruir. |
