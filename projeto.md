@@ -227,8 +227,6 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 [Protótipo criado no FIGMA em 2023 por estudantes](https://www.figma.com/file/fXI9jY72LIRrYv1v59EKhB/canalbis?type=design&node-id=0%3A1&t=mGrAoarZLzbgxZA1-1)
 
-![Imagem do Protótipo](/img/home.png)
-
 [ [INÍCIO](#CanalBis) ]
 
 
