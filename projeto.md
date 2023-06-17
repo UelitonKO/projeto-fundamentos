@@ -1,4 +1,4 @@
-![Alt text](img/Paradiseeamarelo.png)
+![Alt text](img/Logo.png)
 
 # *CanalBis*
 
@@ -107,8 +107,9 @@ O escopo do site pode ser consultado nos [requisitos do software](#requisitos-do
 
 Não fazem parte do escopo do projeto:
 * Treinamento de instalação, configuração, administração e  utilização do sistema;
-* Escolha de um tema do projeto;   
+* Personalização do site, como tema, cores ou posições;   
 * O projeto CanalBis não hospeda os conteúdos apresentados, apenas as informações sobre eles.
+* Apesar do nome, o projeto não está relacionado com canais de televisão.
 
 ## Usuários do sistema
 |USUÁRIO|DESCRIÇÃO|
@@ -200,7 +201,7 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 |RF-017 |Avaliar |Este caso de uso serve para que o usuário seja capaz de avaliar o conteudo visto por ele. |
 |RF-018 |Compartilhar |Este caso de uso serve para que o usuário consiga compartilhar qualquer publicação do site. |
 |RF-019 |Visualização |Este caso de uso serve para que o usuário consiga vizualizar a quantidade de pessoas que acessou o conteudo. |
-|RF-020 |Dados |Este caso de uso serve para que o sistema não disponibilize dados pessoais do usuário para todos. |
+|RF-020 |Comentário |Este caso de uso serve para que o usuário tenha a opção de interagir dentro do site. |
 
 
 ## Requisitos Não Funcionais
@@ -217,7 +218,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 |RNF-007 |Deletar dados de contas |O sistema deve ser capaz de remover dados de uma conta deletada. |
 |RNF-008 |Interoperabilidade |O sistema deverá se comunicar com o SQL Server. |
 |RNF-009 |Integração |O sistema integra com outra aplicação. |
-|RNF-010 |Conexão |O sistema deve estar ligado a uma rede de internet para usufruir. |
+|RNF-010 |Dados |Este caso de uso serve para que o sistema não disponibilize dados pessoais do usuário para todos. |
 
 [ [INÍCIO](#CanalBis) ]
 
