@@ -194,7 +194,7 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 |RF-010 |Relatório |Este caso de uso serve para que o sistema exiba um relatório dos conteudos mais acessados pelos usuários. |
 |RF-011 |Confiabilidade |Este caso de uso serve para que o sistema seja confiavel e seguro para o usuário. |
 |RF-012 |Conteúdo |Este caso de uso serve para que o sistema seja capaz de identificar e salvar conteúdos mais vistos pelo usuário. |
-|RF-013 |Comentário |Este caso de uso serve para que o usuário tenha a opção de interagir dentro do site. |
+|RF-013 |Recomendação |Este caso de uso serve para que o sistema use os conteúdos salvos anteriormente para fazer recomendações precisas ao usuário. |
 |RF-014 |Notificação |Este caso de uso serve para que o sistema envie notificações de atualização de conteúdo ao usuário. |
 |RF-015 |Deletar conta |Este caso permite o usuário deletar sua própria conta com uma confirmação de senha.  |
 |RF-016 |Publicação |Este caso de uso serve para que os desenvolvedores sejam capazes de publicar novos conteudos. |
