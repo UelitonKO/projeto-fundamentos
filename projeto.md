@@ -233,7 +233,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 # Diagrama de Casos de Uso
 
 
-![Diagrama de Casos de Uso](/img/use_case_placas.png)
+![Diagrama de Casos de Uso](PedraKO/projeto-fundamentos/img/CanalBis.png)
 
 ## Descrição / Especificação dos Casos de Uso
 
