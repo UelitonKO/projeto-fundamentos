@@ -272,6 +272,8 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 # Diagrama de Classes
 
+![Diagrama de Classes](img/Diagrmaclasse.png.png)
+
 [ [INÍCIO](#CanalBis) ]
 
 # Diagrama de Sequências
