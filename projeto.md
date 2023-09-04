@@ -271,8 +271,9 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 [ [INÍCIO](#CanalBis) ]
 
 # Diagrama de Classes
+![Diagrama de Casos de Uso](img/CanalBis.png)
 
-![Diagrama de Classes](img/Diagrmaclasse.png.png)
+![Diagrama de Classes](img/Diagrmaclasse.png)
 
 [ [INÍCIO](#CanalBis) ]
 
