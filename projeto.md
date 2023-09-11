@@ -279,7 +279,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 |RF-009| |X| | | | |X| | | | | | | |X| | | | |
 |RF-010| | | | | | | | | | | | | | | |X| | | |
 |RF-011| | | | | | | | | | | | | | | | | | | |
-|RF-012| |X| | | | | | | |X|X|X| | | | | |X| |
+|RF-012| |X| | | | | | | |X|X|X| | | | | |X|X|
 |RF-013| |X| | | | | | | | | | | | | | | |X| |
 |RF-014| |X| | | | | | | | | | | | | |X|X|X| |
 |RF-015| |X| | | |X| | | | | | | | | | | | | |
