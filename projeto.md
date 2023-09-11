@@ -162,7 +162,7 @@ Com base em análises, chegamos à conclusão de que o projeto possui viabilidad
 
 ## Viabilidade Organizacional
 
-Do ponto de vista organizacional, este projeto apresenta baixo risco. Os diretores e coordenadores da instituição demonstram forte interesse no projeto. Espera-se que os professores e alunos aprovem a implantação do sistema, visto que atualmente a escola não possui uma ferramenta específica para o controle das informações, o que está provocando enormes transtornos para a instituição.
+Do ponto de vista organizacional o projeto apresenta risco mediano. Não possuimos pessoas interessadas no projeto, tornando ele meramente ficticio. Caso o prjeto saia do "papel", ele seria útil para fim de entreternimento do usuário, com isso seria crucial que houvesse implementaçao de estratégias de marketing e monetização, gestão adequada do site com foco na qualidade e na atualização constante do conteúdo.
 
 
 [ [INÍCIO](#CanalBis) ]
