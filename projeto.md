@@ -263,10 +263,11 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 ## Matriz de Rastreabilidade
 
 
-| REQUISITO |UC-01|UC-02|UC-03|UC-04|UC-05|UC-06|UC-07|UC-08|UC-09| UC-10|     
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-|RF-001|X| | | | | | | | | |
-|RF-002| |X| |X| | | | | | |
+| REQUISITO |Buscar|Efetuar Login|Compartilhar|Efetuar Cadastro|Recuperar Senha|Deletar Conta|Favoritar|Avaliar|Comentar|Solicitar Conteúdo|Deletar Conteúdos|Publicar Conteúdos|Vizualizar Audiencia|Mostrar Histórico de Busca|Mostrar Lista de Favoritos|Exibir Relatorio|Enviar Notificação|Recomedar Conteúdos|Salvar Conteúdos|     
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|RF-001|X| | | | | | | | | | | | | | | | | | |
+|RF-002| |X| |X| | | | | | | | | | | | | | | |
+
 
 [ [INÍCIO](#CanalBis) ]
 
