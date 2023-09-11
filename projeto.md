@@ -169,6 +169,9 @@ Do ponto de vista organizacional, este projeto apresenta baixo risco. Os diretor
 
 # Metodologia Adotada no Desenvolvimento
 
+SCRUM
+
+O projeto ira nescessitar de uma métodologia ágil, e com sua grande quantidade de conteudo ele deve ter uma metodologia boa para um progeto complexo, e precisara ser editado frequentemente e com uma boa velocidade para respeitar o seus prazos de entrega. nesse site produzido sempre será deixado claro o objetivo do projeto e assim focando nas atividades consideradas com maior prioridade, para que possa ser dividida de forma justa entre os editores. E dessa maneira iremos concluir  as demandas em menor tempo e com maior qualidade.
 
 [ [INÍCIO](#CanalBis) ]
 
