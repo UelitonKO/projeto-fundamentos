@@ -263,28 +263,29 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 ## Matriz de Rastreabilidade
 
 
-| REQUISITO |Buscar|Efetuar Login|Compartilhar|Efetuar Cadastro|Recuperar Senha|Deletar Conta|Favoritar|Avaliar|Comentar|Solicitar Conteúdo|Deletar Conteúdos|Publicar Conteúdos|Vizualizar Audiência|Mostrar Histórico de Busca|Mostrar Lista de Favoritos|Exibir Relatorio|Enviar Notificação||Recomendar Conteúdos|Salvar Conteúdos|     
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-|RF-001|X| | | | | | | | | | | | | | | | | 
-|RF-002| |X| |X| | | | | | | | | | | | | |
-|RF-003|X| | | | | | | | | | | | | | | | |
-|RF-004| |X| |X| | | | | | | | | | | | | |
-|RF-005|X| | | | | | | | | | | | | | | | |
-|RF-006| |X| |X| | | | | | | | | | | | | |
-|RF-007|X| | | | | | | | | | | | | | | | |
-|RF-008| |X| |X| | | | | | | | | | | | | |
-|RF-009|X| | | | | | | | | | | | | | | | |
-|RF-010| |X| |X| | | | | | | | | | | | | |
-|RF-011|X| | | | | | | | | | | | | | | | |
-|RF-012| |X| |X| | | | | | | | | | | | | |
-|RF-013|X| | | | | | | | | | | | | | | | |
-|RF-014| |X| |X| | | | | | | | | | | | | |
-|RF-015|X| | | | | | | | | | | | | | | | |
-|RF-016| |X| |X| | | | | | | | | | | | | |
-|RF-017|X| | | | | | | | | | | | | | | | |
-|RF-018| |X| |X| | | | | | | | | | | | | |
-|RF-019|X| | | | | | | | | | | | | | | | |
-|RF-020| |X| |X| | | | | | | | | | | | | |
+| REQUISITO |Buscar|Efetuar Login|Compartilhar|Efetuar Cadastro|Recuperar Senha|Deletar Conta|Favoritar|Avaliar|Comentar|Solicitar Conteúdo|Deletar Conteúdos|Publicar Conteúdos|Vizualizar Audiência|Mostrar Histórico de Busca|Mostrar Lista de Favoritos|Exibir Relatorio|Enviar Notificação|Recomendar Conteúdos|Salvar Conteúdos|     
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|RF-001|X| | | | | | | | | | | | | | | | | | | 
+|RF-002| |X| |X| | | | | | | | | | | | | | | |
+|RF-003|X| | | | | | | | | | | | | | | | | | |
+|RF-004| |X| |X| | | | | | | | | | | | | | | |
+|RF-005|X| | | | | | | | | | | | | | | | | | |
+|RF-006| |X| |X| | | | | | | | | | | | | | | |
+|RF-007|X| | | | | | | | | | | | | | | | | | |
+|RF-008| |X| |X| | | | | | | | | | | | | | | |
+|RF-009|X| | | | | | | | | | | | | | | | | | |
+|RF-010| |X| |X| | | | | | | | | | | | | | | |
+|RF-011|X| | | | | | | | | | | | | | | | | | |
+|RF-012| |X| |X| | | | | | | | | | | | | | | |
+|RF-013|X| | | | | | | | | | | | | | | | | | |
+|RF-014| |X| |X| | | | | | | | | | | | | | | |
+|RF-015|X| | | | | | | | | | | | | | | | | | |
+|RF-016| |X| |X| | | | | | | | | | | | | | | |
+|RF-017|X| | | | | | | | | | | | | | | | | | |
+|RF-018| |X| |X| | | | | | | | | | | | | | | |
+|RF-019| |X| |X| | | | | | | | | | | | | | | |
+|RF-020| |X| |X| | | | | | | | | | | | | | | |
+
 
 
 [ [INÍCIO](#CanalBis) ]
