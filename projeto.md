@@ -263,7 +263,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 ## Matriz de Rastreabilidade
 
 
-| REQUISITO |Buscar|Efetuar Login|Compartilhar|Efetuar Cadastro|Recuperar Senha|Deletar Conta|Favoritar|Avaliar|Comentar|Solicitar Conteúdo|Deletar Conteúdos|Publicar Conteúdos|Vizualizar Audiência|Mostrar Histórico de Busca|Mostrar Lista de Favoritos|Exibir Relatorio|Enviar Notificação||Recomendar Conteúdos|Salvar Conteúdos|     
+| REQUISITO | Buscar | Efetuar Login | Compartilhar | Efetuar Cadastro | Recuperar Senha | Deletar Conta | Favoritar | Avaliar | Comentar | Solicitar Conteúdo | Deletar Conteúdos | Publicar Conteúdos | Vizualizar Audiência | Mostrar Histórico de Busca | Mostrar Lista de Favoritos | Exibir Relatorio | Enviar Notificação | Recomendar Conteúdos | Salvar Conteúdos |     
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |RF-001|X| | | | | | | | | | | | | | | | | | |
 |RF-002| |X| |X| | | | | | | | | | | | | | | |
