@@ -264,9 +264,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 
 | REQUISITO |Buscar |Efetuar Login |Compartilhar |Efetuar Cadastro |Recuperar Senha |Deletar Conta |Favoritar |Avaliar |Comentar |Solicitar Conteúdo |Deletar Conteúdos |Publicar Conteúdos |Vizualizar Audiencia |Mostrar Histórico de Busca |Mostrar Lista de Favoritos |Exibir Relatorio |Enviar Notificação |Recomedar Conteúdos |Salvar Conteúdos |     
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-|RF-001|X| | | | | | | | | | | | | | | | | | |
-|RF-002| |X| |X| | | | | | | | | | | | | | | |
+
 
 
 [ [INÍCIO](#CanalBis) ]
