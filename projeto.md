@@ -154,16 +154,16 @@ Os usuários devem utilizar um computador com a seguinte configuração mínima:
 Uma vez definidos a necessidade para o sistema e seus requisitos de negócio, é possível compreender melhor o projeto do sistema proposto para elaborar o estudo de viabilidade com os seguintes destaques:
 
 ## Viabilidade Técnica
-Os programadores do projeto possuem competência para criar o projeto necessário, em relação à tecnologia. O projeto não requer softwares complexos e possui porte. Portanto, podemos concluir que o projeto possui viabilidade técnica.
+
+Os programadores do projeto possuem competência para a criação, e com as tecnologias disponíveis, é possível coletar e atualizar dados de múltiplas fontes, garantindo uma base de informações rica e atualizada. Então, a criação de um site de recomendação desse tipo é viável tecnicamente, aproveitando as ferramentas e soluções disponíveis para oferecer uma experiência de alta qualidade aos usuários.
 
 ## Viabilidade Econômica
 
-Com base em análises, chegamos à conclusão de que o projeto possui viabilidade econômica, uma vez que não requer custos elevados e gerará retornos à medida que for acessado por usuários.
+Com base em análises, chegamos à conclusão de que o projeto apresenta uma forte viabilidade econômica. O mercado de entretenimento é vasto e em constante crescimento, oferecendo oportunidades para um amplo público-alvo. Então, se bem planejado e com estratégias de monetização eficazes, o site pode ser uma empreitada economicamente viável no mercado de entretenimento.
 
 ## Viabilidade Organizacional
 
-Do ponto de vista organizacional o projeto apresenta risco mediano. Não possuimos pessoas interessadas no projeto, tornando ele meramente ficticio. Caso o prjeto saia do "papel", ele seria útil para fim de entreternimento do usuário, com isso seria crucial que houvesse implementaçao de estratégias de marketing e monetização, gestão adequada do site com foco na qualidade e na atualização constante do conteúdo.
-
+A viabilidade organizacional é promissora. A estrutura flexível permite a colaboração de equipes multidisciplinares, incluindo especialistas em cada categoria, para garantir recomendações de alta qualidade. No geral, a criação de um site de recomendação demanda uma organização ágil, adaptável e orientada pela qualidade das recomendações, com foco na satisfação do usuário e na construção de parcerias sólidas.
 
 [ [INÍCIO](#CanalBis) ]
 
