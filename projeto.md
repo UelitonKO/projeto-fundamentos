@@ -281,10 +281,10 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 |RF-011 - Confiabilidade| | | | | | | | | | | | | | | | | | | |
 |RF-012 - Conteúdo| |X| | | | | | | |X|X|X| | | | | |X|X|
 |RF-013 - Recomendação| |X| | | | | | | | | | | | | | | |X| |
-|RF-014 - Notificação| |X| | | | | | | | | | | | | |X|X|X| |
+|RF-014 - Notificação| |X| | | | | | | | | | | | | | |X|X| |
 |RF-015 - Deletar conta| |X| | | |X| | | | | | | | | | | | | |
 |RF-016 - Publicação| |X| | | | | | | | | |X| | | | | | | |
-|RF-017 - Avaliar| |X| | | | | | | |X|X| | | | | | | | |
+|RF-017 - Avaliar| |X| | | | |X|X|X| | | | | | | | | | |
 |RF-018 - Compartilhar| | |X| | | | | | | | | | | | | | | | |
 |RF-019 - Vizualização| | | | | | | | | | | | |X| | | | | | |
 |RF-020 - Comentário| |X| | | | | |X|X| | | | | | | | | | |
