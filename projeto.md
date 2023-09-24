@@ -268,26 +268,26 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 | REQUISITO |Buscar|Efetuar Login|Compartilhar|Efetuar Cadastro|Recuperar Senha|Deletar Conta|Favoritar|Avaliar|Comentar|Solicitar Conteúdo|Deletar Conteúdos|Publicar Conteúdos|Vizualizar Audiência|Mostrar Histórico de Busca|Mostrar Lista de Favoritos|Exibir Relatorio|Enviar Notificação|Recomendar Conteúdos|Salvar Conteúdos|     
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-|RF-001| | | |X| | | | | | | | | | | | | | | | 
-|RF-002| | | |X|X| | | | | | | | | | | | | | |
-|RF-003| |X| | |X|X|X|X|X|X| | | | | | | | | |
-|RF-004| |X| | | | | | | | | | | | | | | | | |
-|RF-005|X| | | | | | | | | | | | |X| | | | | |
-|RF-006|X| | | | | | | | | | | | |X| | | | | |
-|RF-007| |X| | | | | | | | | | | | | | | | | |
-|RF-008| |X| | | | | | | | | | | | | | | | | |
-|RF-009| |X| | | | |X| | | | | | | |X| | | | |
-|RF-010| | | | | | | | | | | | | | | |X| | | |
-|RF-011| | | | | | | | | | | | | | | | | | | |
-|RF-012| |X| | | | | | | |X|X|X| | | | | |X|X|
-|RF-013| |X| | | | | | | | | | | | | | | |X| |
-|RF-014| |X| | | | | | | | | | | | | |X|X|X| |
-|RF-015| |X| | | |X| | | | | | | | | | | | | |
-|RF-016| |X| | | | | | | | | |X| | | | | | | |
-|RF-017| |X| | | | | | | |X|X| | | | | | | | |
-|RF-018| | |X| | | | | | | | | | | | | | | | |
-|RF-019| | | | | | | | | | | | |X| | | | | | |
-|RF-020| |X| | | | | |X|X| | | | | | | | | | |
+|RF-001 - Cadastro de usuário| | | |X| | | | | | | | | | | | | | | | 
+|RF-002 - E-mail de confirmação| | | |X|X| | | | | | | | | | | | | | |
+|RF-003 - Efetuar login| |X| | |X|X|X|X|X|X|X|X| |X|X| |X|X|X|
+|RF-004 - Recuperar senha| |X| | | | | | | | | | | | | | | | | |
+|RF-005 - Buscar|X| | | | | | | | | | | | |X| | | | | |
+|RF-006 - Histórico de buscas|X| | | | | | | | | | | | |X| | | | | |
+|RF-007 - Controle de idade| |X| | | | | | | | | | | | | | | |X| |
+|RF-008 - Solicitação de conteúdo| |X| | | | | | | |X| | | | | | | | | |
+|RF-009 - Lista de favoritos| |X| | | | |X| | | | | | | |X| | | | |
+|RF-010 - Relatório| | | | | | | | | | | | | | | |X| | | |
+|RF-011 - Confiabilidade| | | | | | | | | | | | | | | | | | | |
+|RF-012 - Conteúdo| |X| | | | | | | |X|X|X| | | | | |X|X|
+|RF-013 - Recomendação| |X| | | | | | | | | | | | | | | |X| |
+|RF-014 - Notificação| |X| | | | | | | | | | | | | |X|X|X| |
+|RF-015 - Deletar conta| |X| | | |X| | | | | | | | | | | | | |
+|RF-016 - Publicação| |X| | | | | | | | | |X| | | | | | | |
+|RF-017 - Avaliar| |X| | | | | | | |X|X| | | | | | | | |
+|RF-018 - Compartilhar| | |X| | | | | | | | | | | | | | | | |
+|RF-019 - Vizualização| | | | | | | | | | | | |X| | | | | | |
+|RF-020 - Comentário| |X| | | | | |X|X| | | | | | | | | | |
 
 
 
