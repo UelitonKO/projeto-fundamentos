@@ -270,7 +270,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |RF-001 - Cadastro de usuário| | | |X| | | | | | | | | | | | | | | | 
 |RF-002 - E-mail de confirmação| | | |X|X| | | | | | | | | | | | | | |
-|RF-003 - Efetuar login| |X| | |X|X|X|X|X|X|X|X| |X|X| |X|X|X|
+|RF-003 - Efetuar login| |X| | | | | | | | | | | | | | | | | |
 |RF-004 - Recuperar senha| |X| | | | | | | | | | | | | | | | | |
 |RF-005 - Buscar|X| | | | | | | | | | | | |X| | | | | |
 |RF-006 - Histórico de buscas|X| | | | | | | | | | | | |X| | | | | |
