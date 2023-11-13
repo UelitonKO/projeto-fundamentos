@@ -301,9 +301,10 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 # Diagrama de Sequências
 
-![Diagrama de Sequência](img/SequenciaLogin.png)
+![Alt text](img/SequenciaLogin.png)
 ![Alt text](img/SequenciaComentario.png)
 ![Alt text](img/SequenciaEditar.png)
+![Alt text](img/SequenciaPublicacao.png)
 
 [ [INÍCIO](#CanalBis) ]
 
