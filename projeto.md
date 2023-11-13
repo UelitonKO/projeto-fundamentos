@@ -305,7 +305,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 ![Alt text](img/SequenciaComentario.png)
 ![Alt text](img/SequenciaEditar.png)
 ![Alt text](img/SequenciaPublicacao.png)
-
+![Alt text](img/SequenciaExcluir.png)
 [ [INÍCIO](#CanalBis) ]
 
 # Diagrama de Atividades
