@@ -301,11 +301,11 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 # Diagrama de Sequências
 
-![Alt text](img/SequenciaLogin.png)
-![Alt text](img/SequenciaComentario.png)
-![Alt text](img/SequenciaEditar.png)
-![Alt text](img/SequenciaPublicacao.png)
-![Alt text](img/SequenciaExcluir.png)
+![Alt text](img/SequenciaCadastroLogin.png)
+![Alt text](img/SequnciaComentarios.png)
+![Alt text](img/SequenciaBuscaEdição.png)
+![Alt text](img/SequenciaPublicarRelatorio.png)
+![Alt text](img/SequenciaDeletarDesativar.png)
 [ [INÍCIO](#CanalBis) ]
 
 # Diagrama de Atividades
